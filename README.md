@@ -53,7 +53,8 @@ Citi bike start and end points maps. This helps understand where the bikers actu
 
 
 This graph is just for informational purposes to see what stations are the most used as a starting point.
-![](https://public.tableau.com/profile/larysa.oddo#!/vizhome/NYCCitibike_16038393812120/CitiBike?publish=yes)
+
+![](https://github.com/jojobear2020/Bikesharing/blob/main/Images/top_start_stations_by_gender.PNG)
 
 
 
