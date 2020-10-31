@@ -3,7 +3,9 @@
 
 ## PROJECT OVERVIEW
 
-Using sample size from August 2019, we analyzed user profiles and some of the key bike rider’s trends. This information is especially helpful as it may help convince investors that a bike-sharing program in Des Moines is a solid business proposal. For easier understanding, we created a story in Tableau that any investor can go and check, if they wish.
+Using sample size from August 2019, we analyzed user profiles and some of the key bike rider’s trends. This information is especially helpful as it may help convince investors that a bike-sharing program in Des Moines is a solid business proposal. 
+
+For easier understanding, we created a story in Tableau that any investor can go and check, if they wish.
 
 [CITI BIKE DASHBOARD - STORY (August 2019)](https://public.tableau.com/profile/larysa.oddo#!/vizhome/NYCCitibike_16038393812120/CitiBike?publish=yes))
 
@@ -61,5 +63,10 @@ This graph is just for informational purposes to see what stations are the most 
 ## SUMMARY
 
 For this analysis we utilized two main tools in this analysis – Python (for cleaning the data) and Tableau (visualization).
-Using one-month data sample, we found out the most popular weekdays and times for bike rides, including how it correlates with the gender and user profile. Since Des Moines is also a quite large city, we can assume that we can expect similar trends there too. This is essential in developing the right marketing strategy and targeting the right customer base. 
+
+Using one-month data sample, we found out the most popular weekdays and times for bike rides, including how it correlates with the gender and user profile. 
+
+Since Des Moines is also a quite large city, we can assume that we can expect similar trends there too. 
+
+This is essential in developing the right marketing strategy and targeting the right customer base. 
 
