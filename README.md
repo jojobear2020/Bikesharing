@@ -5,8 +5,7 @@
 
 Using sample size from August 2019, we analyzed user profiles and some of the key bike rider’s trends. This information is especially helpful as it may help convince investors that a bike-sharing program in Des Moines is a solid business proposal. For easier understanding, we created a story in Tableau that any investor can go and check, if they wish.
 
-[CITI BIKE DASHBOARD - STORY (August 2019)](
-[link to dashboard](https://public.tableau.com/profile/larysa.oddo#!/vizhome/NYCCitibike_16038393812120/CitiBike?publish=yes))
+[CITI BIKE DASHBOARD - STORY (August 2019)](https://public.tableau.com/profile/larysa.oddo#!/vizhome/NYCCitibike_16038393812120/CitiBike?publish=yes))
 
 
 ## RESULTS
